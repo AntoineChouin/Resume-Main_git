@@ -1,0 +1,109 @@
+@charset 'utf-8';
+
+// ==========================================================================
+// Sassy Starter by Mina Markham
+// A SMACSS-based starter toolkit for SCSS projects
+//
+// The toolkit uses recommendations from Scalable and Modular Architecture for CSS (SMACSS)
+// @link http://smacss.com/book
+//
+// Site:    https://minamarkham.github.io/sassy-starter
+// Author:  Mina Markham
+// Email:   mina@mina.codes
+// Date:    10/25/15
+// ==========================================================================
+
+// CSS Debugging
+//
+// Toggle layout debugging with CSS Pesticide.
+//
+// $pesticide-debug-outline - {boolean} adds outlines to all elements.
+// $pesticide-debug-depth - {boolean} adds shadows to all elements.
+// @source - http://pesticide.io/
+
+$pesticide-debug-outline: false;
+$pesticide-debug-depth: false;
+
+// ==========================================================================
+// $Libs
+// ==========================================================================
+@import 'libs/index';
+
+// ==========================================================================
+// $Utilities
+// ==========================================================================
+@import 'utilities/index';
+
+// ==========================================================================
+// $Base
+// ==========================================================================
+@import 'base/index';
+
+// ==========================================================================
+// $Layout
+// ==========================================================================
+@import 'layout/index';
+
+// ==========================================================================
+// $Atoms
+// ==========================================================================
+@import 'atoms/index';
+
+// ==========================================================================
+// $Molecules
+// ==========================================================================
+@import 'molecules/index';
+
+// ==========================================================================
+// $Organisms
+// ==========================================================================
+@import 'organisms/index';
+
+// ==========================================================================
+// $States
+// ==========================================================================
+@import 'states/index';
+
+// ==========================================================================
+// $Overrides
+// ==========================================================================
+@import 'overrides/index';
+
+// ==========================================================================
+// $Print
+// ==========================================================================
+@import 'states/print';
+$font-color-body: #affafa;
+// ==========================================================================
+// $Fonts
+// ==========================================================================
+@import 'utilities/fonts';
+
+// ==========================================================================
+// $Shame
+// ==========================================================================
+@import 'shame';
+//@import '../font-awesome/scss/font-awesome';
+body{
+  color: rebeccapurple;
+  background-color: $font-color-body;
+}
+i.fa{
+  background-color: darkturquoise;
+  border:4px solid black;
+}
+
+a#strava {
+  font: 11px Helvetica, Arial, sans-serif;
+  background: url('http://badges.strava.com/logo-strava-echelon.png') no-repeat 10px center #FC4C02;
+  display: inline-block;
+  color: #fff;
+  padding: 5px 10px 5px 30px;
+  white-space: nowrap;
+  text-decoration: none;
+  border-radius: 3px;
+  img {
+    margin-left: 2px;
+    vertical-align: text-bottom;
+  }
+}
