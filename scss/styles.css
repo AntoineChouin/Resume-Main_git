@@ -1,19 +1,4 @@
 /* line 45, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 2, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 3, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 4, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 5, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 6, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 7, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 8, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 9, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 10, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 11, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 12, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 13, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 14, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 15, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 16, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 article,
 aside,
 details,
@@ -28,81 +13,21 @@ summary {
   display: block; }
 
 /* line 61, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 16, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 18, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 20, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 22, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 24, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 26, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 28, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 30, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 32, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 34, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 36, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 38, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 40, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 42, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 44, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 audio,
 canvas,
 video {
   display: inline-block; }
 
 /* line 74, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 22, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 25, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 28, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 31, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 34, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 37, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 40, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 43, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 46, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 49, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 52, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 55, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 58, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 61, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 64, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
 /* line 84, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 27, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 31, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 35, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 39, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 43, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 47, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 51, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 55, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 59, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 63, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 67, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 71, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 75, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 79, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 83, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 [hidden], template {
   display: none; }
 
 /* line 97, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 31, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 36, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 41, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 46, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 51, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 56, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 61, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 66, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 71, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 76, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 81, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 86, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 91, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 96, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 101, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 html {
   background: #fff;
   color: #000;
@@ -110,21 +35,6 @@ html {
   -ms-text-size-adjust: 100%; }
 
 /* line 109, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 38, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 44, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 50, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 56, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 62, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 68, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 74, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 80, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 86, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 92, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 98, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 104, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 110, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 116, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 122, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 html,
 button,
 input,
@@ -133,256 +43,59 @@ textarea {
   font-family: sans-serif; }
 
 /* line 119, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 46, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 53, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 60, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 67, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 74, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 81, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 88, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 95, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 102, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 109, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 116, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 123, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 130, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 137, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 144, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 body {
   margin: 0; }
 
 /* line 132, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 50, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 58, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 66, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 74, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 82, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 90, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 98, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 106, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 114, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 122, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 130, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 138, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 146, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 154, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 162, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 a {
   background: transparent; }
-
-/* line 139, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 53, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 63, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 72, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 81, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 90, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 99, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 108, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 117, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 126, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 135, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 144, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 153, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 162, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 171, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 180, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-a:focus {
-  outline: thin dotted; }
-
-/* line 145, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 56, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 68, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 78, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 88, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 98, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 108, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 118, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 128, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 138, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 148, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 158, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 168, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 178, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 188, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 198, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-a:hover, a:active {
-  outline: 0; }
+  /* line 139, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
+  a:focus {
+    outline: thin dotted; }
+  /* line 145, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
+  a:hover, a:active {
+    outline: 0; }
 
 /* line 159, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 60, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 73, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 84, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 95, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 106, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 117, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 128, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 139, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 150, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 161, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 172, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 183, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 194, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 205, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 216, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
 /* line 164, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 65, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 79, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 91, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 103, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 115, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 127, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 139, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 151, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 163, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 175, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 187, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 199, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 211, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 223, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 235, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0; }
 
 /* line 169, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 70, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 85, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 98, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 111, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 124, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 137, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 150, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 163, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 176, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 189, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 202, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 215, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 228, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 241, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 254, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h3 {
   font-size: 1.17em;
   margin: 1em 0; }
 
 /* line 174, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 75, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 91, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 105, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 119, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 133, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 147, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 161, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 175, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 189, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 203, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 217, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 231, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 245, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 259, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 273, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h4 {
   font-size: 1em;
   margin: 1.33em 0; }
 
 /* line 179, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 80, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 97, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 112, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 127, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 142, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 157, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 172, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 187, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 202, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 217, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 232, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 247, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 262, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 277, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 292, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0; }
 
 /* line 184, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 85, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 103, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 119, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 135, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 151, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 167, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 183, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 199, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 215, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 231, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 247, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 263, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 279, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 295, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 311, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h6 {
   font-size: 0.75em;
   margin: 2.33em 0; }
 
 /* line 198, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 90, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 109, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 126, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 143, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 160, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 177, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 194, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 211, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 228, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 245, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 262, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 279, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 296, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 313, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 330, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 dfn {
   font-style: italic; }
 
 /* line 204, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 94, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 114, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 132, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 150, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 168, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 186, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 204, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 222, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 240, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 258, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 276, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 294, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 312, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 330, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 348, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 mark {
   background: #ff0;
   color: #000; }
 
 /* line 220, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 99, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 120, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 139, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 158, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 177, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 196, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 215, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 234, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 253, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 272, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 291, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 310, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 329, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 348, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 367, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 code,
 kbd,
 pre,
@@ -391,100 +104,25 @@ samp {
   font-size: 1em; }
 
 /* line 233, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 107, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 129, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 149, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 169, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 189, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 209, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 229, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 249, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 269, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 289, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 309, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 329, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 349, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 369, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 389, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
 
 /* line 241, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 113, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 136, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 157, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 178, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 199, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 220, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 241, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 262, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 283, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 304, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 325, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 346, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 367, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 388, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 409, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
 /* line 257, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 117, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 141, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 163, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 185, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 207, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 229, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 251, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 273, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 295, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 317, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 339, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 361, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 383, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 405, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 427, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 q:before, q:after {
   content: '';
   content: none; }
 
 /* line 266, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 122, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 147, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 170, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 193, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 216, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 239, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 262, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 285, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 308, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 331, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 354, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 377, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 400, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 423, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 446, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 small {
   font-size: 80%; }
 
 /* line 273, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 126, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 152, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 176, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 200, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 224, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 248, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 272, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 296, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 320, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 344, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 368, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 392, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 416, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 440, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 464, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 sub,
 sup {
   font-size: 75%;
@@ -493,158 +131,38 @@ sup {
   vertical-align: baseline; }
 
 /* line 281, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 134, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 161, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 186, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 211, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 236, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 261, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 286, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 311, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 336, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 361, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 386, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 411, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 436, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 461, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 486, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 sup {
   top: -0.5em; }
 
 /* line 285, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 138, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 166, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 192, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 218, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 244, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 270, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 296, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 322, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 348, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 374, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 400, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 426, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 452, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 478, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 504, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 sub {
   bottom: -0.25em; }
 
 /* line 337, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 142, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 171, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 198, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 225, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 252, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 279, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 306, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 333, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 360, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 387, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 414, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 441, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 468, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 495, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 522, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 img {
   border: 0; }
 
 /* line 346, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 146, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 176, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 204, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 232, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 260, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 288, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 316, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 344, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 372, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 400, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 428, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 456, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 484, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 512, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 540, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 svg:not(:root) {
   overflow: hidden; }
 
 /* line 356, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 150, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 181, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 210, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 239, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 268, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 297, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 326, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 355, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 384, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 413, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 442, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 471, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 500, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 529, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 558, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 figure {
   margin: 0; }
 
 /* line 373, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 154, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 186, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 216, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 246, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 276, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 306, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 336, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 366, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 396, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 426, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 456, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 486, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 516, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 546, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 576, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
 /* line 384, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 160, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 193, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 224, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 255, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 286, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 317, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 348, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 379, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 410, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 441, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 472, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 503, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 534, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 565, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 596, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 legend {
   border: 0;
   padding: 0;
   white-space: normal; }
 
 /* line 398, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 166, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 200, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 232, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 264, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 296, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 328, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 360, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 392, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 424, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 456, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 488, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 520, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 552, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 584, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 616, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button,
 input,
 select,
@@ -655,60 +173,15 @@ textarea {
   vertical-align: baseline; }
 
 /* line 413, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 176, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 211, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 244, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 277, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 310, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 343, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 376, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 409, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 442, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 475, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 508, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 541, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 574, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 607, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 640, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button, input {
   line-height: normal; }
 
 /* line 422, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 180, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 216, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 250, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 284, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 318, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 352, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 386, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 420, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 454, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 488, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 522, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 556, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 590, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 624, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 658, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button,
 select {
   text-transform: none; }
 
 /* line 435, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 185, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 222, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 257, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 292, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 327, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 362, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 397, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 432, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 467, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 502, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 537, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 572, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 607, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 642, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 677, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -717,142 +190,36 @@ input[type="submit"] {
   cursor: pointer; }
 
 /* line 448, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 193, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 231, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 267, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 303, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 339, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 375, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 411, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 447, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 483, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 519, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 555, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 591, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 627, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 663, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 699, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button[disabled],
 input[disabled] {
   cursor: default; }
 
 /* line 457, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 198, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 237, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 274, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 311, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 348, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 385, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 422, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 459, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 496, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 533, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 570, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 607, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 644, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 681, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 718, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
 /* line 466, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 203, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 243, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 281, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 319, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 357, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 395, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 433, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 471, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 509, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 547, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 585, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 623, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 661, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 699, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 737, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
 /* line 477, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 208, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 249, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 288, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 327, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 366, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 405, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 444, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 483, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 522, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 561, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 600, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 639, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 678, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 717, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 756, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
 /* line 485, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 213, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 255, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 295, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 335, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 375, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 415, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 455, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 495, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 535, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 575, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 615, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 655, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 695, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 735, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 775, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
-
-/* line 493, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 219, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 263, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 304, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 345, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 386, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 427, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 468, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 509, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 550, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 591, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 632, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 673, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 714, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 755, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 796, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
+  /* line 493, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
+  input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none; }
 
 /* line 503, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/libs/_normalize.scss */
-/* line 223, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 268, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 310, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 352, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 394, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 436, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 478, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 520, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 562, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 604, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 646, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 688, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 730, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 772, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 814, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 input[type="checkbox"], input[type="radio"] {
   box-sizing: border-box;
   padding: 0; }
@@ -861,61 +228,16 @@ input[type="checkbox"], input[type="radio"] {
   width: device-width; }
 
 /* line 3, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 231, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 277, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 320, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 363, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 406, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 449, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 492, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 535, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 578, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 621, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 664, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 707, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 750, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 793, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 836, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 html {
   background-color: #fff;
   box-sizing: border-box;
   height: 100%; }
 
 /* line 10, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 237, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 284, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 328, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 372, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 416, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 460, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 504, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 548, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 592, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 636, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 680, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 724, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 768, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 812, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 856, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 *:before, *:after {
   box-sizing: inherit; }
 
 /* line 14, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 241, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 289, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 334, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 379, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 424, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 469, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 514, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 559, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 604, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 649, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 694, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 739, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 784, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 829, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 874, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 body {
   -webkit-font-smoothing: antialiased;
   color: #484c55;
@@ -925,21 +247,6 @@ body {
   text-rendering: optimizeLegibility; }
 
 /* line 23, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 250, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 299, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 345, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 391, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 437, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 483, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 529, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 575, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 621, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 667, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 713, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 759, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 805, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 851, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 897, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 a {
   background: transparent;
   color: #c69;
@@ -947,41 +254,11 @@ a {
   transition: color .2s; }
 
 /* line 30, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 257, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 307, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 354, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 401, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 448, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 495, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 542, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 589, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 636, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 683, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 730, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 777, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 824, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 871, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 918, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 img {
   height: auto;
   max-width: 100%; }
 
 /* line 35, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/base/_base.scss */
-/* line 262, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 313, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 361, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 409, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 457, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 505, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 553, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 601, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 649, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 697, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 745, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 793, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 841, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 889, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 937, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 h1,
 h2,
 h3,
@@ -993,272 +270,62 @@ h6 {
 
 @media print {
   /* line 8, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 273, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 325, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 374, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 423, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 472, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 521, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 570, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 619, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 668, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 717, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 766, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 815, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 864, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 913, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 962, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   *:before, *:after {
     background: transparent !important;
     color: #000 !important;
     box-shadow: none !important;
     text-shadow: none !important; }
   /* line 16, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 279, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 332, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 382, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 432, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 482, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 532, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 582, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 632, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 682, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 732, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 782, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 832, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 882, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 932, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 982, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   a,
   a:visited {
     text-decoration: underline; }
   /* line 21, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 283, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 337, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 388, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 439, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 490, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 541, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 592, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 643, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 694, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 745, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 796, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 847, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 898, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 949, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1000, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   a[href]:after {
     content: " (" attr(href) ")"; }
   /* line 25, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 286, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 341, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 393, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 445, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 497, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 549, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 601, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 653, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 705, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 757, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 809, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 861, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 913, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 965, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1017, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   abbr[title]:after {
     content: " (" attr(title) ")"; }
   /* line 32, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 289, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 345, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 398, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 451, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 504, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 557, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 610, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 663, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 716, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 769, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 822, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 875, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 928, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 981, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1034, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   a[href^="#"]:after,
   a[href^="javascript:"]:after {
     content: ""; }
   /* line 37, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 293, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 350, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 404, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 458, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 512, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 566, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 620, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 674, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 728, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 782, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 836, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 890, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 944, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 998, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1052, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid; }
   /* line 46, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 298, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 356, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 411, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 466, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 521, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 576, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 631, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 686, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 741, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 796, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 851, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 906, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 961, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1016, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1071, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   thead {
     display: table-header-group; }
   /* line 48, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 301, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 360, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 416, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 472, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 528, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 584, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 640, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 696, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 752, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 808, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 864, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 920, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 976, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1032, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1088, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   tr,
   img {
     page-break-inside: avoid; }
   /* line 51, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 305, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 365, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 422, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 479, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 536, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 593, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 650, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 707, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 764, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 821, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 878, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 935, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 992, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1049, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1106, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   img {
     max-width: 100% !important; }
   /* line 53, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 308, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 369, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 427, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 485, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 543, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 601, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 659, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 717, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 775, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 833, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 891, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 949, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1007, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1065, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1123, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3; }
   /* line 60, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/states/_print.scss */
-  /* line 314, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 376, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 435, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 494, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 553, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 612, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 671, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 730, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 789, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 848, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 907, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 966, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1025, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1084, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-  /* line 1143, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
   h2,
   h3 {
     page-break-after: avoid; } }
 
 /* line 87, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.scss */
-/* line 319, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 382, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 442, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 502, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 562, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 622, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 682, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 742, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 802, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 862, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 922, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 982, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1042, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1102, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1162, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 body {
   color: rebeccapurple;
-  background-color: coral; }
+  background-color: #affafa; }
 
 /* line 91, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.scss */
-/* line 324, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 388, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 449, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 510, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 571, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 632, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 693, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 754, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 815, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 876, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 937, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 998, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1059, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1120, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1181, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 i.fa {
   background-color: darkturquoise;
   border: 4px solid black; }
 
 /* line 96, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.scss */
-/* line 329, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 394, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 456, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 518, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 580, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 642, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 704, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 766, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 828, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 890, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 952, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1014, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1076, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1138, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1200, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
 a#strava {
   font: 11px Helvetica, Arial, sans-serif;
   background: url("http://badges.strava.com/logo-strava-echelon.png") no-repeat 10px center #FC4C02;
@@ -1268,41 +335,9 @@ a#strava {
   white-space: nowrap;
   text-decoration: none;
   border-radius: 3px; }
-
-/* line 105, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.scss */
-/* line 339, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 406, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 469, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 532, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 595, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 658, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 721, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 784, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 847, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 910, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 973, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1036, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1099, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1162, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-/* line 1225, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.css */
-a#strava img {
-  margin-left: 2px;
-  vertical-align: text-bottom; }
-
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
+  /* line 105, /Users/Antoinechouinard/Documents/Programmation/Web/Resume/Resume_Main_git/scss/styles.scss */
+  a#strava img {
+    margin-left: 2px;
+    vertical-align: text-bottom; }
 
 /*# sourceMappingURL=styles.css.map */
